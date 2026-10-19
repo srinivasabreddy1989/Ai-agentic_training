@@ -1,6 +1,8 @@
 #ignore all files in the .env file
 .env
+.venv/
 __pycache__/
+
 *.pyc
 *.pyo
 *.pyd
